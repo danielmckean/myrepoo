@@ -1,1 +1,5 @@
+
+
 #hello
+x = 0
+print(x)
